@@ -1,0 +1,19 @@
+{
+    "name": "boggle",
+    "version": "1.0.0",
+    "description": "Play [here](https://lmiller36.github.io/Boggle/)",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "Lorne Miller",
+    "license": "ISC",
+    "devDependencies": {
+        "eslint": "^7.0.0"
+    },
+    "dependencies": {
+        "font-awesome": "^4.7.0",
+        "FortAwesome/Font-Awesome": "*"
+    }
+}
